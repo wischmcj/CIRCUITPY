@@ -18,11 +18,9 @@ Hardware consist of a Stemma QT enabled microprocessor powered via USB and a dai
     <br />
     <a href="https://www.adafruit.com/product/5302"><strong>KeeBoar RP2040</strong></a>
     .
-    <a href="https://www.adafruit.com/product/4832">HTU31D</a>
+    <a href="https://www.adafruit.com/product/4832">Sensor 1 (HTU31D)</a>
     ·
-    <a href="https://www.adafruit.com/product/4494">DPS310</a>
-    ·
-    <a href="https://www.adafruit.com/product/4494">DPS310</a>
+    <a href="https://www.adafruit.com/product/4494">Sensor 2 (DPS310)</a>
   </p>
 
 
